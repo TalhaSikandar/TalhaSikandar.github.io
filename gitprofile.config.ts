@@ -34,9 +34,11 @@ const CONFIG = {
       header: 'My Projects',
       projects: [
         {
-          title: 'Plunger Lift Optimization – Qult.ai',
+          title: 'Gas Extraction Optimization – Qult.ai',
           description:
             'At Qult.ai, developed an AI-driven asset-optimization system to optimize plunger lift operations by analyzing real-time well telemetry and historical production data. Leveraging machine learning and time-series forecasting, the solution improves cycle timing, reduces downtime, and extends equipment life, supported by interactive dashboards for performance monitoring.',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           
         },
         {
@@ -67,7 +69,7 @@ const CONFIG = {
             'Developed a fully functional rover from scratch, handling both hardware and software aspects. Built a custom LiDAR system for obstacle detection and distance measurement, integrated with PWM motor control, sensors, and AI-based navigation algorithms.',
         },
         {
-          title: 'Embedded AI on Hat Devices',
+          title: 'Embedded AI on HAT Devices',
           description:
             'Worked with Raspberry Pi and microcontrollers to deploy lightweight deep learning models for edge computing, enabling real-time AI processing directly on resource-constrained devices.',
         },
@@ -79,7 +81,7 @@ const CONFIG = {
       ]
     }
   },
-  seo: { title: 'Portfolio of Ayesha Siddiqa', description: '', imageURL: '' },
+  seo: { title: 'Portfolio of Talha Sikandar', description: '', imageURL: '' },
   social: {
     linkedin: 'talha-sikandar',
     x: '',
@@ -104,7 +106,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1BWu1kItGgufoOEjAtFNItlieYLfl60iG/view?usp=drive_link', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     "Computer Vision",
