@@ -106,7 +106,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1BWu1kItGgufoOEjAtFNItlieYLfl60iG/view?usp=drive_link', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1OTZcb4kwZUanmQwC4J0OeY5meh92GOcM/view?usp=drive_link', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     "Computer Vision",
